@@ -1,0 +1,5 @@
+main: com.skywalx.SharedAdvancementsPlugin
+name: SharedAdvancements
+version: 1.0.0
+api-version: 1.13
+authors: ["HungryDev"]
